@@ -9,8 +9,9 @@
 		<h3>Week 3 (Sept 17th 2019)</h3>
 		<p>Handed in the <a href = "https://github.com/simransaini1999/Lumi-Monitor/blob/master/Documentation/Schedule.pdf">Schedule</a></p>
 		<h3>Week 2 (Sept 10th 2019)</h3>
-		<p>I created a <a href = "https://github.com/simransaini1999/Lumi-Monitor"> repository </a> for my Capstone project, Lumi Monitor</p>
+		<p>I handed in the <a href ="https://github.com/simransaini1999/Lumi-Monitor/blob/master/Documentation/ProjectProposalStudentNameRev03.pdf"> Proposal </a> today</p>
 		<h3>Week 1 (Sept 3rd 2019)</h3>
+		<p>I created a <a href = "https://github.com/simransaini1999/Lumi-Monitor"> repository </a> for my Capstone project, Lumi Monitor</p>
 	</body>
 </html>
 		
