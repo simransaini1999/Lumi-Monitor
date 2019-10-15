@@ -10,7 +10,10 @@
 		<p>My Sechmetic: </p>
 		<img src ="Images/Fritzing/finalone_schem.png">
 		<p>My PCB: </p>
+		<p>This is the PCB design I will be giving to the technologist for printing.</p>
 		<img src ="Images/Fritzing/thisone_pcb.png">
+		<p>This PCB design is the one I created with the Raspberry pi and the TSL2561 sensor</p>
+		<img src = "Images/Fritzing/with_raspberrypi_pcb.png">
 		<h3>Week 6 (Oct 8th 2019)</h3>
 		<p>This week I brought my acqusitions, a raspberry pi zero,LEDs, and my luminosity sensor(TSL2661) in and had presented them infront of the professor. Also after presenting them I also went to the J231 to get myself a socket for my PCB.</p>
 		<h3>Week 5 (Oct 1st 2019)</h3>
