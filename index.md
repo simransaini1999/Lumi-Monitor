@@ -4,6 +4,10 @@
 	</head>
 	<body>
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
+		<h3>Week 7 (Oct 15th 2019)</h3>
+		<p>My Bread Board: </p>
+		<p>My Sechmetic: </p>
+		<p>My PCB: </p>
 		<h3>Week 6 (Oct 8th 2019)</h3>
 		<p>This week I brought my acqusitions, a raspberry pi zero,LEDs, and my luminosity sensor(TSL2661) in and had presented them infront of the professor. Also after presenting them I also went to the J231 to get myself a socket for my PCB.</p>
 		<h3>Week 5 (Oct 1st 2019)</h3>
