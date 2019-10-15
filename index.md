@@ -6,6 +6,7 @@
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
 		<h3>Week 7 (Oct 15th 2019)</h3>
 		<p>My Bread Board: </p>
+		<img src ="Images/Fritzing/finalone_bb.png">
 		<p>My Sechmetic: </p>
 		<p>My PCB: </p>
 		<h3>Week 6 (Oct 8th 2019)</h3>
