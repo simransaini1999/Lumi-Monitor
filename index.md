@@ -11,7 +11,7 @@
 		<img src ="Images/Fritzing/finalone_schem.png">
 		<p>My PCB: </p>
 		<p>This is the PCB design I will be giving to the technologist for printing.</p>
-		<img src ="Images/Fritzing/thisone_pcb.png">
+		<img src ="Images/Fritzing/printing_PCB_pcb.png">
 		<p>This PCB design is the one I created with the Raspberry pi and the TSL2561 sensor</p>
 		<img src = "Images/Fritzing/with_raspberrypi_pcb.png">
 		<h3>Week 6 (Oct 8th 2019)</h3>
