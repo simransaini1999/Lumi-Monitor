@@ -4,6 +4,12 @@
 	</head>
 	<body>
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
+		<h3>Week 8 (Reading Week)</h3>
+		<p>In the reading week I loaded my OS/Bootloader and have it up and running. Also I made a trip to the protype lab to get my designed PCB.</p>
+		<img src ="Images/images for index.md/20191027_153724.jpg">
+		<img src ="">
+		<img src ="">
+		<img src ="">
 		<h3>Week 7 (Oct 15th 2019)</h3>
 		<p>My Bread Board: </p>
 		<img src ="Images/Fritzing/finalone_bb.png">
