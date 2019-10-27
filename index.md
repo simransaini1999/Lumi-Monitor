@@ -7,9 +7,9 @@
 		<h3>Week 8 (Reading Week)</h3>
 		<p>In the reading week I loaded my OS/Bootloader and have it up and running. Also I made a trip to the protype lab to get my designed PCB.</p>
 		<img src ="Images/images for index.md/20191027_153724.jpg">
-		<img src ="">
-		<img src ="">
-		<img src ="">
+		<p>This is my PCB</p>
+		<img src ="Images/images for index.md/designPCB.jpg">
+		<img src ="Images/images for index.md/designPCB2.jpg">
 		<h3>Week 7 (Oct 15th 2019)</h3>
 		<p>My Bread Board: </p>
 		<img src ="Images/Fritzing/finalone_bb.png">
@@ -22,6 +22,7 @@
 		<img src = "Images/Fritzing/with_raspberrypi_pcb.png">
 		<h3>Week 6 (Oct 8th 2019)</h3>
 		<p>This week I brought my acqusitions, a raspberry pi zero,LEDs, and my luminosity sensor(TSL2661) in and had presented them infront of the professor. Also after presenting them I also went to the J231 to get myself a socket for my PCB.</p>
+		<img src ="Images/images for index.md/ordered_parts.jpg">
 		<h3>Week 5 (Oct 1st 2019)</h3>
 		<p>The proof of <a href = "https://github.com/simransaini1999/Lumi-Monitor/tree/master/Images/Proof%20of%20order"> Purchace </a> has been uploaded</p>
 		<h3>Week 4 (Sept 24th 2019)</h3>
