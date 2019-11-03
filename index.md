@@ -2,6 +2,10 @@
 	<head>
 		<title>CENG 317 Blog</title>
 	</head>
+	<style>
+		$ exiftool Images/Testing/When_sensor_covered.jpg | grep Orientation
+		Orientation                     : Rotate 90 CW
+	</style>
 	<body>
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
 		<h3>Week 9 (Oct 29th 2019)</h3> 
