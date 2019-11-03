@@ -9,6 +9,7 @@
 		<img src = "Images/Testing/pic_of_setup.jpg">
 		<p>This is my Light sensor when it is covered</p>
 		<img src = "Images/Testing/When_sensor_covered.jpg">
+		<p>This is my Light sensor when light is shined on it</p>
 		<img src = "Images/Testing/when_light_at_sensor.jpg" >
 		<h3>Week 8 (Reading Week)</h3>
 		<p>In the reading week I loaded my OS/Bootloader and have it up and running. Also I made a trip to the protype lab to get my designed PCB.</p>
