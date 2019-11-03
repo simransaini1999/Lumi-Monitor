@@ -5,7 +5,7 @@
 	<body>
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
 		<h3>Week 9 (Oct 29th 2019)</h3> 
-		<p>This week when I gave my demo in class I had to give it on a raspberry Pi 3 and when I came home and tried run the code on my Raspberry Pi zero, The Raspberry Pi Zero crashed did not turn back on. I tried alot to search the meaning of this and everywhere it told me that my raspberry Pi Zero had died. So to resolve this issue I decided to order a raspberry Pi 3 this time, and it came in the second day. I have made an update to my budget and now back on track with my project in terms of the project working as well as finacially.</p> 
+		<p>This week when I gave my demo in class I had to give it on a raspberry Pi 3 and when I came home and tried run the code on my Raspberry Pi zero, The Raspberry Pi Zero crashed did not turn back on. I tried alot to search the meaning of this and everywhere it told me that my raspberry Pi Zero had died. So to resolve this issue I decided to order a raspberry Pi 3 this time, and it came in the second day. I have made an update to my <a href = "https://github.com/simransaini1999/Lumi-Monitor/blob/master/Documentation/Budget.xlsx">budget</a> and now back on track with my project in terms of the project working as well as finacially.</p> 
 		<p>Uploaded the sample code from learn.adafruit.com for running my TSL2561 can be found <a href = "https://github.com/simransaini1999/Lumi-Monitor/blob/master/Software/TSL2561.py">here</a></p>
 		<img src = "Images/Testing/pic_of_setup.jpg">
 		<p>This is my Light sensor when it is covered</p>
