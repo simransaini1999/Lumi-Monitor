@@ -6,9 +6,13 @@
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
 		<h3>Week 11 (Nov 12th 2019)</h3>
 		<p>This week was to power up our PCBs with a remote desktop connection which was a success!!</p>
+		<img src = "" >
+		<img src = "" >
 		<p>Everything is on track and now I am looking forward for next week which is the enclosure.</p>
 		<h3>Week 10 (Nov 5th 2019)</h3>
 		<p>This week I gave my demo in class. I showed the professor the connection of my PCB which had no short. Also I had my remote desktop connection setup. For my remote desktop connection I had  to get myself a USB to Ethernet adapter and a Ethernet cable which has been updated in the <a href = "https://github.com/simransaini1999/Lumi-Monitor/blob/master/Documentation/Budget.xlsx">budget</a>. I am on track in the terms of the project working and finacially.</p>
+		<img src = "Images/Testing/20191111_180216.jpg" >
+		<img src = "" >
 		<h3>Week 9 (Oct 29th 2019)</h3> 
 		<p>This week when I gave my demo in class, I had to give it on a raspberry Pi 3. When I came home and tried run the code on my Raspberry Pi zero, The Raspberry Pi Zero crashed did not turn back on. I tried alot to search the meaning of this and everywhere it told me that my raspberry Pi Zero had died. So to resolve this issue I decided to order a raspberry Pi 3 this time, and it came in the second day. I have made an update to my <a href = "https://github.com/simransaini1999/Lumi-Monitor/blob/master/Documentation/Budget.xlsx">budget</a> and now back on track with my project in terms of the project working as well as finacially.</p> 
 		<p>Uploaded the sample code from learn.adafruit.com for running my TSL2561 can be found <a href = "https://github.com/simransaini1999/Lumi-Monitor/blob/master/Software/TSL2561.py">here.</a> I had to make an edit to the code from adafruit inorder to print the output repeatedly because in my demo in class the output was only printing once.</p>
