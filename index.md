@@ -4,6 +4,10 @@
 	</head>
 	<body>
 		<h1>Blog for CENG 317 - Lumi Monitor</h1>
+		<h3>Week 12 (Nov 19th 2019)</h3>
+		<p>This is my enclosure:<p>
+		<p>The files for the casing can be found <a href = "https://github.com/simransaini1999/Lumi-Monitor/tree/master/Mechanical">here</a>
+		<img src = "Images/Casing/case1.jpg" >
 		<h3>Week 11 (Nov 12th 2019)</h3>
 		<p>This week was to power up our PCBs with a remote desktop connection which was a success!!</p>
 		<img src = "Images/Testing/20191112_130733.jpg" >
