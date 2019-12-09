@@ -11,7 +11,9 @@
 
 [PCB/Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB/Soldering)
 
-[Power_Up](https://github.com/simransaini1999/Lumi-Monitor#Power_Up)
+[Power Up](https://github.com/simransaini1999/Lumi-Monitor#Power%20Up)
+
+[Testing](https://github.com/simransaini1999/Lumi-Monitor#Testing)
 
 
 # Introduction
@@ -40,7 +42,7 @@ Below here are the links to the materials that will be needed for the project.
 [Sockets](https://amzn.to/2RwjQFD)
 # Assembly 
 # PCB/Soldering 
-# Power Up
+# Power_Up
 # Testing 
 
 
