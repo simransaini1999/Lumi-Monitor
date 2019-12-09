@@ -42,7 +42,8 @@ Below here are the links to the materials that will be needed for the project.
 [Sockets](https://amzn.to/2RwjQFD)
 # PCB/Soldering 
 ### PCB Design 
-### PCB final look
+### PCB final Look
+This is how your PCB and sensor suppose to look like after it is soldered and ready to mount on the raspberry pi.
 ![](Images/IMG-0112.jpg)
 
 # Assembly 
