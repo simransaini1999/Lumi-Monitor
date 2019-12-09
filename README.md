@@ -21,6 +21,7 @@
 Welcome to the build instructions of the TSL2561 Lumnosity sensor. In these instructions we will be using a broadcom development platform aka Raspberry Pi and will need a case  at the end to put all the components in.
 
 # Schedule
+
 ![](Images/schedule.JPG)
 
 # Budget
@@ -61,13 +62,24 @@ The case for this project will look with the all the componets in it is:
 
 # Power Up
 Once everything is connected, power up the raspberry pi.
-1. check your I2C bus adress by typing in terminal 
-'''python
-i2cdetect -y 1
-'''
+1. check your I2C bus adress by typing in terminal ```python i2cdetect -y 1```
+2. This is how the output is suppose to look like: 
+
+![](Images/I2CBus.png)
 ## Setting up the sensor on your Raspberry pi
 To set up the TSL2561 Sensor with your raspberry pi, [this](https://learn.adafruit.com/tsl2561/python-circuitpython) page will explain a step by step proccess on how to set it up with your raspberry pi. 
 # Testing 
+To run this file you will have to save the code file on your raspberry pi. For example saving it on desktop. 
+Open terminal
+```
+cd Destop // this is the location where your file is saved 
+python3 'filename'.py
+```
+After testing the output with more light will have a big lux value  
+![]()
+The output with less light will have a less lux value 
+![]()
+
 
 
 
