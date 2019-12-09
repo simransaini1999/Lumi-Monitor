@@ -54,7 +54,8 @@ This is how the connection from your sensor is suppose to be with the raspberry 
 ![](Images/Fritzing/with_raspberrypi_bb.jpg)
 ### Casing for the project 
 The casing desing is made on corel draw. The file for the casing is [here](Mechanical/FINAL1999.cdr).
-The case for this project will look like [](Images/Casing/IMG-0004.jpg)
+The case for this project will look like ![](Images/Casing/IMG-0004.jpg)
+![](Mechanical/FINAL1999.pdf)
 # Power Up
 ## Setting up the sensor on your Raspberry pi
 To set up the TSL2561 Sensor with your raspberry pi, [this](https://learn.adafruit.com/tsl2561/python-circuitpython) page will explain a step by step proccess on how to set it up with your raspberry pi. 
