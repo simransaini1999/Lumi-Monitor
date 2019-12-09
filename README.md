@@ -41,7 +41,9 @@ Below here are the links to the materials that will be needed for the project.
 
 [Sockets](https://amzn.to/2RwjQFD)
 # PCB/Soldering 
-### PCB 
+### PCB Design 
+### PCB final look
+![](Images/IMG-0112.jpg)
 
 # Assembly 
 ### Step 1: Set up Raspberry Pi
