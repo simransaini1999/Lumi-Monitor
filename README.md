@@ -48,7 +48,7 @@ Below here are the links to the materials that will be needed for the project.
 ### Setting up a remote desktop connection(Optional)
 ### Step 2: Set up Sensor on breadboard
 This is how the connection from your sensor is suppose to be with the raspberry pi.
-![](Images/Fritzing/finalone_bb.png)
+![](Images/Fritzing/with_raspberrypi_bb.jpg)
 # Power_Up
 ## Setting up the sensor on your Raspberry pi
 # Testing 
