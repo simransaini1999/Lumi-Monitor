@@ -40,7 +40,7 @@ Below here are the links to the materials that will be needed for the project.
 [Clear Acrylic](https://amzn.to/2LEbLLd)
 
 [Sockets](https://amzn.to/2RwjQFD)
-# PCB/Soldering 
+# PCB & Soldering 
 ### PCB Design 
 ### PCB final Look
 This is how your PCB and sensor suppose to look like after it is soldered and ready to mount on the raspberry pi.
@@ -48,12 +48,13 @@ This is how your PCB and sensor suppose to look like after it is soldered and re
 
 # Assembly 
 ### Step 1: Set up Raspberry Pi
-### Setting up a remote desktop connection(Optional)
+[How to install the OS on SD card](https://www.youtube.com/watch?v=jsi50bCo_W4) 
 ### Step 2: Set up Sensor on breadboard
 This is how the connection from your sensor is suppose to be with the raspberry pi.
 ![](Images/Fritzing/with_raspberrypi_bb.jpg)
-# Power_Up
+# Power Up
 ## Setting up the sensor on your Raspberry pi
+To set up the TSL2561 Sensor with your raspberry pi, [this](https://learn.adafruit.com/tsl2561/python-circuitpython) page will explain a step by step proccess on how to set it up with your raspberry pi. 
 # Testing 
 
 
