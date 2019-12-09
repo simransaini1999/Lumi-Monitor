@@ -1,15 +1,30 @@
 # TSL2561 - Build Instructions 
 # Table of Contents 
+
+[Introduction](https://github.com/simransaini1999/Lumi-Monitor#Introduction)
+
+[Schedule](https://github.com/simransaini1999/Lumi-Monitor#Schedule)
+
+[Budget](https://github.com/simransaini1999/Lumi-Monitor#Budget)
+
+[Assembly](https://github.com/simransaini1999/Lumi-Monitor#Assembly)
+
+[PCB/Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB/Soldering)
+
+[Power_Up](https://github.com/simransaini1999/Lumi-Monitor#Power_Up)
+
+
 # Introduction
 ![](Images/Casing/IMG-0004.jpg)
 Welcome to the build instructions of the TSL2561 Lumnosity sensor. In these instructions we will be using a broadcom development platform aka Raspberry Pi and will need a case  at the end to put all the components in.
 
-# Schedule For this project 
+# Schedule
 ![](Images/schedule.JPG)
 
-# Budget for this project 
+# Budget
 ![](Images/Budget.JPG)
 Below here are the links to the materials that will be needed for the project. 
+
 [TSL2561 Luminosity Sensor](https://bit.ly/2l9bKFb)
 
 [Raspberry Pi 3](https://amzn.to/2CayCcg)
@@ -24,9 +39,9 @@ Below here are the links to the materials that will be needed for the project.
 
 [Sockets](https://amzn.to/2RwjQFD)
 # Assembly 
-# PCB & Soldering 
-# Power up 
-# Unit Testing 
+# PCB/Soldering 
+# Power Up
+# Testing 
 
 
 
