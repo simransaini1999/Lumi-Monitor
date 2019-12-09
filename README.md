@@ -47,11 +47,14 @@ This is how your PCB and sensor suppose to look like after it is soldered and re
 ![](Images/IMG-0112.jpg)
 
 # Assembly 
-### Step 1: Set up Raspberry Pi
+### Set up Raspberry Pi
 [How to install the OS on SD card](https://www.youtube.com/watch?v=jsi50bCo_W4) 
-### Step 2: Set up Sensor on breadboard
+### Set up Sensor on breadboard
 This is how the connection from your sensor is suppose to be with the raspberry pi.
 ![](Images/Fritzing/with_raspberrypi_bb.jpg)
+### Casing for the project 
+The casing desing is made on corel draw. The file for the casing is [here](Mechanical/FINAL1999.cdr).
+The case for this project will look like [](Images/Casing/IMG-0004.jpg)
 # Power Up
 ## Setting up the sensor on your Raspberry pi
 To set up the TSL2561 Sensor with your raspberry pi, [this](https://learn.adafruit.com/tsl2561/python-circuitpython) page will explain a step by step proccess on how to set it up with your raspberry pi. 
