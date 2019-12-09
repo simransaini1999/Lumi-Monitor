@@ -9,7 +9,7 @@
 
 [Assembly](https://github.com/simransaini1999/Lumi-Monitor#Assembly)
 
-[PCB/Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB/Soldering)
+[PCB & Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB%20&%20Soldering)
 
 [Power Up](https://github.com/simransaini1999/Lumi-Monitor#Power%20Up)
 
