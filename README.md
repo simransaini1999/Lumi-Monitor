@@ -15,15 +15,23 @@
 
 [Testing](https://github.com/simransaini1999/Lumi-Monitor#Testing)
 
+[Production Testing](https://github.com/simransaini1999/Lumi-Monitor#Production%20Testing)
+
 
 # Introduction
 ![](Images/Casing/IMG-0004.jpg)
 Welcome to the build instructions of the TSL2561 Lumnosity sensor. In these instructions we will be using a broadcom development platform aka Raspberry Pi and will need a case  at the end to put all the components in.
 
-# Schedule
-This project should be able to be finished over the weekend considering that you have all the materials ready to connect. 
+# Schedule 
 ![](Images/schedule.JPG)
-
+Estimated time to finish this project if this build instruction is followed: 
+- Setting up the raspberry pi with OS: 45min - 1hr considering the download speed on your WIFI
+- testing sensor with breadboard: 20 minutes  
+- PCB soldering: 20 - 30 minutes 
+- Laser cutting the case: 20 minutes 
+- PCB power up: 10 minutes
+- Assebling the case with raspberry pi in it: 10 - 15 minutes
+This project should be able to be finished over the weekend considering that you have all the materials ready to connect. 
 # Budget
 ![](Images/Budget.JPG)
 Below here are the links to the materials that will be needed for the project. 
