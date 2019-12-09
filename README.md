@@ -53,10 +53,18 @@ This is how your PCB and sensor suppose to look like after it is soldered and re
 This is how the connection from your sensor is suppose to be with the raspberry pi.
 ![](Images/Fritzing/with_raspberrypi_bb.jpg)
 ### Casing for the project 
-The casing desing is made on corel draw. The file for the casing is [here](Mechanical/FINAL1999.cdr).
-The case for this project will look like ![](Images/Casing/IMG-0004.jpg)
-![](Mechanical/FINAL1999.pdf)
+The casing desing is made on corel draw. The file for the casing can be found [here](Mechanical/FINAL1999.cdr).
+
+The case for this project will look with the all the componets in it is:
+
+![](Images/Casing/IMG-0004.jpg)
+
 # Power Up
+Once everything is connected, power up the raspberry pi.
+1. check your I2C bus adress by typing in terminal 
+'''python
+i2cdetect -y 1
+'''
 ## Setting up the sensor on your Raspberry pi
 To set up the TSL2561 Sensor with your raspberry pi, [this](https://learn.adafruit.com/tsl2561/python-circuitpython) page will explain a step by step proccess on how to set it up with your raspberry pi. 
 # Testing 
