@@ -21,7 +21,7 @@
 Welcome to the build instructions of the TSL2561 Lumnosity sensor. In these instructions we will be using a broadcom development platform aka Raspberry Pi and will need a case  at the end to put all the components in.
 
 # Schedule
-
+This project should be able to be finished over the weekend considering that you have all the materials ready to connect. 
 ![](Images/schedule.JPG)
 
 # Budget
@@ -72,7 +72,7 @@ To set up the TSL2561 Sensor with your raspberry pi, [this](https://learn.adafru
 To run this file you will have to save the code file on your raspberry pi. For example saving it on desktop. 
 Open terminal
 ```
-cd Destop // this is the location where your file is saved 
+cd Desktop // this is the location where your file is saved 
 python3 'filename'.py
 ```
 After testing the output with more light will have a big lux value  
