@@ -40,9 +40,17 @@ Below here are the links to the materials that will be needed for the project.
 [Clear Acrylic](https://amzn.to/2LEbLLd)
 
 [Sockets](https://amzn.to/2RwjQFD)
-# Assembly 
 # PCB/Soldering 
+### PCB 
+
+# Assembly 
+### Step 1: Set up Raspberry Pi
+### Setting up a remote desktop connection(Optional)
+### Step 2: Set up Sensor on breadboard
+This is how the connection from your sensor is suppose to be with the raspberry pi.
+![](Images/Fritzing/finalone_bb.png)
 # Power_Up
+## Setting up the sensor on your Raspberry pi
 # Testing 
 
 
