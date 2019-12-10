@@ -7,7 +7,7 @@
 
 [Budget](https://github.com/simransaini1999/Lumi-Monitor#Budget)
 
-[PCB & Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB%20&%20Soldering)
+[PCB and Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB%20and%20Soldering)
 
 [Assembly](https://github.com/simransaini1999/Lumi-Monitor#Assembly)
 
@@ -49,7 +49,7 @@ Below here are the links to the materials that will be needed for the project.
 [Clear Acrylic](https://amzn.to/2LEbLLd)
 
 [Sockets](https://amzn.to/2RwjQFD)
-# PCB & Soldering 
+# PCB and Soldering 
 ### PCB Design 
 The design for this PCB can be found [here](Electronics/Fritzing/printing_PCB.fzz)
 ![](Images/printing_PCB_pcb.png)
