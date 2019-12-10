@@ -51,6 +51,8 @@ Below here are the links to the materials that will be needed for the project.
 [Sockets](https://amzn.to/2RwjQFD)
 # PCB & Soldering 
 ### PCB Design 
+The design for this PCB can be found [here](Electronics/Fritzing/printing_PCB.fzz)
+![](Images/printing_PCB_pcb.png)
 ### PCB final Look
 This is how your PCB and sensor suppose to look like after it is soldered and ready to mount on the raspberry pi.
 ![](Images/IMG-0112.jpg)
@@ -84,9 +86,9 @@ cd Desktop // this is the location where your file is saved
 python3 'filename'.py
 ```
 After testing the output with more light will have a big lux value  
-![]()
+![](Images/sensor_light.jpg)
 The output with less light will have a less lux value 
-![]()
+![](Images/sensor_covered.jpg)
 
 
 
