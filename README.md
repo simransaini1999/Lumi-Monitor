@@ -22,13 +22,14 @@
 Welcome to the build instructions of the TSL2561 Lumnosity sensor. In these instructions we will be using a broadcom development platform aka Raspberry Pi and will need a case  at the end to put all the components in.
 # System Diagram
 ![](Images/UML.JPG)
-# Schedule 
-![](Images/schedule.JPG)
+# Time commitment
 Estimated time to finish this project if this build instruction is followed: 
 - Setting up the raspberry pi with OS: 45min - 1hr considering the download speed on your WIFI
 - testing sensor with breadboard: 20 minutes  
-- PCB soldering: 20 - 30 minutes 
-- Laser cutting the case: 20 minutes 
+- PCB designing:30 minutes 
+Send out the [PCB](Electronics/Fritzing/printing_PCB.fzz) file to get the PCB made from the [Company](http://support.seeedstudio.com/). 
+- Laser cutting the case: 20 minutes
+For laser printing you can send out the [Corel Draw File](Mechanical/FINAL1999.cdr) to a company and get it made. 
 - PCB power up: 10 minutes
 - Assebling the case with raspberry pi in it: 10 - 15 minutes
 This project should be able to be finished over the weekend considering that you have all the materials ready to connect. 
@@ -59,7 +60,12 @@ This is how your PCB and sensor suppose to look like after it is soldered and re
 
 # Assembly 
 ### Set up Raspberry Pi
-[How to install the OS on SD card](https://www.youtube.com/watch?v=jsi50bCo_W4) 
+[How to install the OS on SD card](https://www.youtube.com/watch?v=jsi50bCo_W4)
+If the video above is not availible, here is a few of the important steps talked about in the video.
+1. Download the full desktop verion of [rasbian](https://www.raspberrypi.org/downloads/raspbian/)
+2. Downlad the [SD card formater](https://www.sdcard.org/downloads/formatter/)
+3. insert SD card into computer
+4. After running the SD card formater upload the rasbian download you downloaded on the SD card formater and click format. 
 ### Set up Sensor on breadboard
 This is how the connection from your sensor is suppose to be with the raspberry pi.
 ![](Images/Fritzing/with_raspberrypi_bb.jpg)
