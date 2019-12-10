@@ -62,7 +62,7 @@ This is how your PCB and sensor suppose to look like after it is soldered and re
 ### Set up Raspberry Pi
 [How to install the OS on SD card](https://www.youtube.com/watch?v=jsi50bCo_W4)
 If the video above is not availible, here is a few of the important steps talked about in the video.
-1. Download the full desktop verion of [rasbian](https://www.raspberrypi.org/downloads/raspbian/)
+1. Download the full desktop verion of [raspbian](https://www.raspberrypi.org/downloads/raspbian/)
 2. Downlad the [SD card formater](https://www.sdcard.org/downloads/formatter/)
 3. insert SD card into computer
 4. After running the SD card formater upload the rasbian download you downloaded on the SD card formater and click format. 
