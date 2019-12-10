@@ -63,6 +63,7 @@ This is how your PCB and sensor suppose to look like after it is soldered and re
 ### Set up Sensor on breadboard
 This is how the connection from your sensor is suppose to be with the raspberry pi.
 ![](Images/Fritzing/with_raspberrypi_bb.jpg)
+To reffer to the pinout of the rapberry pi you can check the [pinout.xyz](https://pinout.xyz/)
 ### Casing for the project 
 The casing desing is made on corel draw. The file for the casing can be found [here](Mechanical/FINAL1999.cdr).
 
