@@ -1,4 +1,5 @@
 # TSL2561 - Build Instructions 
+![](Images/Casing/IMG-0004.jpg)
 # Table of Contents 
 
 [Introduction](https://github.com/simransaini1999/Lumi-Monitor#Introduction)
@@ -18,10 +19,10 @@
 
 
 # Introduction
-![](Images/Casing/IMG-0004.jpg)
 Welcome to the build instructions of the TSL2561 Lumnosity sensor. In these instructions we will be using a broadcom development platform aka Raspberry Pi and will need a case  at the end to put all the components in.
 # System Diagram
 ![](Images/UML.JPG)
+In this System Diagram as the light gets shined on the sensor the raspberry pi collects the data and stores it into the firebase. After when in the Android application the user logs into the app to view the baby data and clicks the light sensor data it will show a line graph based on the data stored from the hardware aspect of the project. 
 # Time commitment
 Estimated time to finish this project if this build instruction is followed: 
 - Setting up the raspberry pi with OS: 45min - 1hr considering the download speed on your WIFI
