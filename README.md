@@ -7,11 +7,11 @@
 
 [Budget](https://github.com/simransaini1999/Lumi-Monitor#Budget)
 
-[PCB and Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB%20and%20Soldering)
+[PCB and Soldering](https://github.com/simransaini1999/Lumi-Monitor#PCB-and-Soldering)
 
 [Assembly](https://github.com/simransaini1999/Lumi-Monitor#Assembly)
 
-[Power Up](https://github.com/simransaini1999/Lumi-Monitor#Power%20Up)
+[Power Up](https://github.com/simransaini1999/Lumi-Monitor#Power-Up)
 
 [Testing](https://github.com/simransaini1999/Lumi-Monitor#Testing)
 
